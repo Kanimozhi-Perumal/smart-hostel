@@ -1,0 +1,16 @@
+:root {
+  --primary: #2563eb;     /* blue */
+  --success: #16a34a;     /* green */
+  --warning: #f59e0b;     /* orange */
+  --danger: #dc2626;      /* red */
+  --dark: #111827;
+  --light: #f9fafb;
+  --border: #e5e7eb;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background-color: var(--light);
+  color: var(--dark);
+}
