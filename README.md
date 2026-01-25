@@ -164,7 +164,7 @@ smart-hostel/
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/smart-hostel.git
+git clone https://github.com/Kanimozhi-Perumal/smart-hostel.git
 cd smart-hostel
 
 2️⃣ Backend Setup
